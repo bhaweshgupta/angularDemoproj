@@ -21,7 +21,7 @@ var app = angular
                 $scope.message = "Home Page";
             })
             .controller("coursesController", function ($scope) {
-                $scope.courses = ["C#", "VB.NET", "ASP.NET", "SQL Server"];
+                $scope.courses = ["C#", "ANGULAR.JS", "ASP.NET", "SQL Server"];
             })
              .controller("studentsController", function ($scope, $http) {
                  $http.get("StudentService.asmx/GetAllStudents")
