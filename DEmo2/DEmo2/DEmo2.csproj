@@ -54,6 +54,7 @@
     <Content Include="Scripts\angular-route.min.js" />
     <Content Include="Scripts\angular.js" />
     <Content Include="Scripts\script.js" />
+    <Content Include="Templates\studentDetails.html" />
     <Content Include="StudentService.asmx" />
     <Content Include="Styles.css" />
     <Content Include="Templates\courses.html" />
